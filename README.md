@@ -11,3 +11,6 @@ https://github.com/facebook/create-react-app
 
 Here are Some of the important terms related to React JS.
 
+# React Components -React.Component
+# JSX
+
